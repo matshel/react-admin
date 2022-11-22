@@ -1,6 +1,6 @@
 # Simple Admin Dashboard
 
-![image]()
+![image](https://github.com/matshel/react-admin/blob/master/public/assets/dashboard.png)
 
 In this project I have recreated Ed Roh's Admin dashboard.
 The purpose of making this project was to learn about React, and enhance my React skills.
