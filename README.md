@@ -23,7 +23,7 @@ The purpose of making this project was to learn about React, and enhance my Reac
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:Noroff-FEU-Assignments/project-exam-2-matshel.git
+git clone git@github.com:matshel/react-admin.git
 ```
 
 2. Install the dependencies:
